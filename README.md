@@ -1,35 +1,23 @@
-# Hi, I'm Aditya Brahma
+Aditya Brahma
 
-I'm a high school student interested in computer science, artificial intelligence, and machine learning. I enjoy building projects and using technology to solve real-world problems.
+Aspiring Computer Scientist | AI Researcher | Software Developer
 
-## About Me
+Technical Skills
 
-- Student researcher focusing on AI and computer vision
-- Presented research at IEEE ISEC
-- Co-founder of my school's Computer Science Club
-- Currently working on AI research and other software projects
+Languages: Python, HTML, CSS
 
-## Projects
+AI/ML: Deep Learning, Computer Vision, CNNs, ResNet, Vision Transformers, Explainable AI, Grad-CAM
 
-### Explainable AI for Concrete Crack Detection
-Developed a deep learning project focused on detecting cracks in concrete and understanding how AI models make predictions.
+Development: VS Code, Git, GitHub, Flask, Streamlit
 
-### Lung Cancer Detection
-Worked on using deep learning and medical imaging to identify lung cancer from CT scans.
+Core Interests: Software Engineering, Data Science, AI Research, Automation
 
-### Other Projects
-Built several applications using Python and MIT App Inventor, including games, calculators, and interactive tools.
+Featured Projects
 
-## Skills
+Explainable AI for Concrete Crack Detection - Deep learning and computer vision using CNNs, ResNet-50, ViT, and Grad-CAM.
 
-- Python
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- HTML and CSS
+Lung Cancer Classification - CNN-based medical image classification with explainable AI.
 
-## Currently Working On
+Financial CSV Generator - Python-based synthetic data generation and financial analytics.
 
-- Improving my AI projects
-- Learning more about software development
-- Building Need for Read, a project focused on collecting and donating books to schools
+Need for Read - Developing a technology-driven book donation initiative.
