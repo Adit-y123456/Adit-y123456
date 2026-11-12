@@ -20,4 +20,3 @@ Lung Cancer Classification - CNN-based medical image classification with explain
 
 Financial CSV Generator - Python-based synthetic data generation and financial analytics.
 
-Need for Read - Developing a technology-driven book donation initiative.
